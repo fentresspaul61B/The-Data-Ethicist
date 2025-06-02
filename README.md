@@ -1,5 +1,7 @@
 # The Data Ethicist 
 
+[```Blog Link```](https://fentresspaul61b.github.io/The-Data-Ethicist/)
+
 ## Welcome!
 
 My name is Paul, and In this blog I will provide a leftist view of AI and our future in a world of increasingly capable AI systems.
