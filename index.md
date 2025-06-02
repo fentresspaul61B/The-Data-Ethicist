@@ -1,4 +1,7 @@
-# Home
+---
+layout: default
+title: Home
+---
 
 Hello and welcome to my blog on AI Ethics. 
 
