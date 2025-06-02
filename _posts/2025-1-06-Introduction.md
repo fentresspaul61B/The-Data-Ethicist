@@ -11,6 +11,7 @@ I hope that this blog can be a way to openly express my understanding and new Id
 
 ## About Me
 ![alt text](https://github.com/fentresspaul61B/The-Data-Ethicist/blob/main/images/profilepic.png)
+
 I graduated from UC Berkeley with a Bachelors of Arts in Data Science December 2022. I work as a Machine Learning Engineer. I am also a masters student at Georgia Tech studying Computer Science. 
 
 ## Who Is This Blog For
