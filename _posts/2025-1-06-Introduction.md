@@ -13,10 +13,15 @@ I hope that this blog can be a way to openly express my understanding and new Id
 
 <img src="https://github.com/fentresspaul61B/The-Data-Ethicist/blob/main/images/profilepic.png" width="350" height="350">
 
+
+<img src="/images/profilepic.png" width="350" height="350">
+
 I graduated from UC Berkeley with a Bachelors of Arts in Data Science December 2022. I work as a Machine Learning Engineer. I am also a masters student at Georgia Tech studying Computer Science. 
 
 ## Who Is This Blog For
-Anyone who is interested in AI but may have also become fed up with the political and philosophical homogeneity within the AI landscape. I plan to include a balanced blend of technical, political and philosophical topics. Some books that were influential to my views on these topics include:
+Anyone who is interested in AI but may have also become fed up with the political and philosophical homogeneity within the AI landscape. I plan to include a balanced blend of technical, political and philosophical topics. 
+
+Some books that were influential to my views on these topics include:
 
 - [```"Race After Technology" Ruha Benjamin```](https://www.ruhabenjamin.com/race-after-technology)
 - [```"Weapons of Math Destruction" By Cathy O'Neil```](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
