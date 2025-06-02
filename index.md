@@ -1,3 +1,3 @@
 ---
-# Welcome to the Data Ethicist Blog!
+title: The Data Ethicist
 ---
