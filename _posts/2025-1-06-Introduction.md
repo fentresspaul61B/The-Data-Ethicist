@@ -11,10 +11,7 @@ I hope that this blog can be a way to openly express my understanding and new Id
 
 ## About Me
 
-<img src="https://github.com/fentresspaul61B/The-Data-Ethicist/blob/main/images/profilepic.png" width="350" height="350">
-
-
-<img src="/images/profilepic.png" width="350" height="350">
+<img src="https://raw.githubusercontent.com/fentresspaul61B/The-Data-Ethicist/main/images/profilepic.png" width="350" height="350">
 
 I graduated from UC Berkeley with a Bachelors of Arts in Data Science December 2022. I work as a Machine Learning Engineer. I am also a masters student at Georgia Tech studying Computer Science. 
 
