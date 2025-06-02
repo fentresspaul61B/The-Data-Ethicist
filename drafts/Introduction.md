@@ -1,8 +1,3 @@
----
-title: "Introduction"
-date: 2025-06-01
----
-
 # Welcome!
 
 My name is Paul, and In this blog I will provide a leftist view of AI and our future in a world of increasingly capable AI systems.
@@ -30,3 +25,9 @@ Furthermore, my writing is not meant to copy or regurgitate the ideas from the a
 I plan on covering a broad range of topics within AI like the future of work, how data can be manipulated and bias in machine learning to name a few. 
 
 I will try to post once a week; however, I am new to blogging, so the schedule is tentative currently.
+
+## Closing Note
+Thank you for stopping by :]
+
+ 
+
