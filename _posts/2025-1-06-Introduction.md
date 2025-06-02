@@ -10,7 +10,7 @@ My name is Paul, and In this blog I will provide a leftist view of AI and our fu
 I hope that this blog can be a way to openly express my understanding and new Ideas in AI ethics, which may help others develop their own views on this increasingly prevalent topic. 
 
 ## About Me
-![alt text](/images/profilepic.png)
+![alt text](https://github.com/fentresspaul61B/The-Data-Ethicist/blob/main/images/profilepic.png)
 I graduated from UC Berkeley with a Bachelors of Arts in Data Science December 2022. I work as a Machine Learning Engineer. I am also a masters student at Georgia Tech studying Computer Science. 
 
 ## Who Is This Blog For
